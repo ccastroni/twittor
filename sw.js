@@ -6,7 +6,7 @@ const INMUTABLE_CACHE = 'inmutable-1'
 
 // Todo lo que este dentro de la aplicacion
 const APP_SHELL = [
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
